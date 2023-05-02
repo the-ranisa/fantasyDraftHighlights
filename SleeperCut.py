@@ -1,9 +1,9 @@
 vDictSleeper = {
     "QBCARBryceYoung":"6TnSxCVVAbg",
-    "QBHOUC.J.Stroud":"G7M1Z0hsdnY",
-    "QBINDAnthonyRichardson":"yM6qPYDsQN8",
-    "QBTENWillLevis":"soZnsiu8gFc",
-    "QBMINHendonHooker":"exoq8PIiCiY",
+    "QBHOUC.J.Stroud":"G7M1Z0hsdnY?t=3",
+    "QBINDAnthonyRichardson":"yM6qPYDsQN8?t=3",
+    "QBTENWillLevis":"soZnsiu8gFc?t=3",
+    "QBMINHendonHooker":"exoq8PIiCiY?t=3",
     "QBLARStetsonBennett":"4oa-vRd__7c",
     "QBLACMaxDuggan":"qJXpZUImDrs",
     "QBPHITannerMcKee":"AIfTw5CC3q4",
