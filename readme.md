@@ -111,7 +111,7 @@ vDictSleeper ={
 
 As you can see, there's one line for each player, and I've included an example of what the link should look like for Ezekiel Elliot. Do NOT change the first part of each line before the colon. The app uses that part to lookup each player as it's picked. If you change that part, the code will not be able to find anything for that player. It's very picky.
 
-The capitalization here also matters. I've taken out all non-alphabetic characters out of the players' names like apostrophes, spaces, dashes, etc.
+The capitalization and punctuation here also matters. Some players' names contain non-alphabetic characters like apostrophes, spaces, dashes, etc.
 
 Going back to the Zeke example:
 
@@ -134,7 +134,7 @@ Like this:
 
 Any change in that will probably cause problems.
 
-I've included between 400-700 possible players that you're allowed to draft in the apps, depending on the platform. So you are set even if you have up to 20 team, 20 round draft :)
+The player list has been updated to fit 2023 Sleeper rookie drafts.
 
 ## To Run
 
