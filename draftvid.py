@@ -49,13 +49,12 @@ def playVid(vLink):
         ytc.play_video(vLink)
     else:
         youTubeDriver.get(yt+vLink+yt2)
-        # try:
-        #     playButton=youTubeDriver.find_element(By.CLASS_NAME, 'ytp-play-button')
-        #     playButton.click()
-        #     fullScreenButton=youTubeDriver.find_element(By.CLASS_NAME, 'ytp-fullscreen-button')
-        #     fullScreenButton.click()
-        # except:
-        #     print("Exception encountered attempting to play video in fullscreen")
+        try:
+            time.sleep(1)
+            fullScreenButton=youTubeDriver.find_element(By.CLASS_NAME, 'ytp-fullscreen-button')
+            fullScreenButton.click()
+        except:
+            print("Exception encountered attempting to play video in full screen")
     return 
 
 #searches Youtube for link
