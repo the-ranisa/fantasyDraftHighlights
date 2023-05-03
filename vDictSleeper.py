@@ -3,7 +3,7 @@ vDictSleeper = {
     "QBHOUC.J.Stroud":"G7M1Z0hsdnY",
     "QBINDAnthonyRichardson":"yM6qPYDsQN8",
     "QBTENWillLevis":"soZnsiu8gFc",
-    "QBMINHendonHooker":"exoq8PIiCiY",
+    "QBDETHendonHooker":"exoq8PIiCiY",
     "QBLARStetsonBennett":"4oa-vRd__7c",
     "QBLACMaxDuggan":"qJXpZUImDrs",
     "QBPHITannerMcKee":"AIfTw5CC3q4",
