@@ -73,7 +73,7 @@ vDictSleeper = {
     "WRMINJordanAddison":"lJCKwgoUBcQ",
     "WRLACQuentinJohnston":"X-6wN46TMdE",
     "WRBALZayFlowers":"3u9T7qV2JBo",
-    "WRNYGJaylinHyatt":"HcLGSfCbTUU",
+    "WRNYGJalinHyatt":"HcLGSfCbTUU",
     "WRINDJoshDowns":"x2zXO3jbj8c",
     "WRNEKayshonBoutte":"vb48wlIUQiE",
     "WRKCRasheeRice":"2xqW3vLImEI",
