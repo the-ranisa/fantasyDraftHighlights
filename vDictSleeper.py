@@ -239,7 +239,7 @@ vDictSleeper = {
     "DBGBCarringtonValentine":"",
     "DBLARJasonTaylor":"",
     "DBPITCoryTrice":"",
-    "DBGBAnthonyJohnson":"",
+    "DBGBAnthonyJohnson":"gX77GVKHJcI",
     "DBNEIsaiahBolden":"",
     "DBCINDJIvey":"",
     "DBHOUBrandonHill":"",
