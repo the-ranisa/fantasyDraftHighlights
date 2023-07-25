@@ -195,7 +195,7 @@ vDictSleeper = {
     "LBTENMaxwellWorship":"",
     "LBTENThomasRush":"",
     "LBPITDavidPerales":"",
-    "LBMINIvanPace":"",
+    "LBMINIvanPace":"ObSC3GeABew",
     "LBMINAndreCarter":"",
     "LBMINWilsonHuber":"",
     "LBMINAbrahamBeauplan":"",
