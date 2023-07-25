@@ -208,7 +208,7 @@ vDictSleeper = {
     "LBJAXYasirAbdullah":"bn7eqnnW5n0",
     "LBCHINoahSewell":"78-xNOTYnW0",
     "LBTBSirVoceaDennis":"Ofq7RDMv4u8",
-    "LBLARNickHampton":"",
+    "LBLARNickHampton":"JV_5Z8F8s3g",
     "LBHOUHenryTo'oTo'o":"RLMIJ5r4rSY",
     "LBARIOwenPappoe":"7jUwqywB2v4",
     "LBSFRobertBeal":"",
