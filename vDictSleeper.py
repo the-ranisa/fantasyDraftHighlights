@@ -149,7 +149,7 @@ vDictSleeper = {
     "DLTBJoseRamirez":"",
     "DLLAROchaunMathis":"",
     "DLLACScottMatlock":"",
-    "DLWASK.J.Henry":"5otsp08s1kQ",
+    "DLWASKJHenry":"5otsp08s1kQ",
     "DLMINJaquelinRoy":"cc6t4EFT6cI",
     "DLSEAMikeMorris":"NyJiibxT8Pg",
     "DLKCBJThompson":"",
