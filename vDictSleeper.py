@@ -268,7 +268,7 @@ vDictSleeper = {
     "DBINDDanielScott":"rSVLDK_cTMM",
     "DBJAXAntonioJohnson":"p6miLnZeY8c",
     "DBCHITerellSmith":"g-GbD4O4iTg",
-    "DBLVChristopherSmith":"R9dwa145JqA",
+    "DBLVChrisSmith":"R9dwa145JqA",
     "DBLVJakorianBennett":"Yi99F8TcloU",
     "DBPHIKeleeRingo":"ZCk6XYYUvIE",
     "DBATLClarkPhillips":"JDjLMPe-O_o",
