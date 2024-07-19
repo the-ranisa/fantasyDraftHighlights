@@ -564,7 +564,7 @@ vDictSleeper = {
   "WRBUFLawrenceKeys": "",
   "WRBUFXavierJohnson": "",
   "WRCARDevinCarter": "",
-  "WRCARJalenCoker": "",
+  "WRCARJalenCoker": "rR6NCElOpNQ",
   "WRCARSamPinckney": "",
   "WRCARXavierLegette": "RXg3MwUtU_o",
   "WRCHIOjHiliare": "",
