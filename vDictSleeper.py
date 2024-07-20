@@ -87,7 +87,7 @@ vDictSleeper = {
   "DBDETEnnisRakestraw": "BVq1CE4Ydpc",
   "DBDETLorenStrickland": "",
   "DBDETMoriceNorris": "",
-  "DBDETSioneVaki": "-BghDTZIMls",
+  "RBDETSioneVaki": "-BghDTZIMls",
   "DBDETTerrionArnold": "jft0Oh3Zesk",
   "DBGBEvanWilliams": "OYyal9NbxLI",
   "DBGBJavonBullard": "AqRwXD_ba0w",
